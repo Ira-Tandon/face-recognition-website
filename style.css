@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Moonrocks&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Akronim&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital@1&display=swap');
+
+#heading1{
+font-family: 'Rubik Moonrocks', cursive;
+color:#FB2576;
+}
+body{
+    background-color: #FF85B3;
+}
+#heading2{
+    font-family: 'Akronim', cursive;
+    color:#3F0071;
+    text-align: left;
+}
+#text{
+    font-family: 'Playfair Display', cursive;
+    color:#3F0071;
+    text-align: left;
+    font-size: large;
+}
+#snap, #check{
+    background-color: #3F0071;
+    color:aliceblue;
+}
+#object, #accuracy{
+    font-family: 'Playfair Display', cursive;
+    color:#3F0071;
+}
+#result_person_name, #result_person_accuracy{
+    font-family: 'Playfair Display', cursive;
+    color:#3F0071;   
+}
